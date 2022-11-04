@@ -5,6 +5,13 @@ A fork of the Figma plugin by [https://github.com/tushar7d/Project-Scaffold-Figm
 * Auto generates a consistent project structure for your team, so your organization is consistent across teams
 * Creates a cover for your project (COMING SOON)
 
+### How to install the plugin
+* Download the zip file from here
+* Unzip the file and move it to a safe place
+* In Figma go to Plugins / Development / Import Plugin from Manifest
+* Choose the manifest.json file
+* Voilá!
+
 ### How to use
 * Fork this repo and install typescript on your machine
 * Edit the `code.ts` file
